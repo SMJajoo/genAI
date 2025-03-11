@@ -1,4 +1,4 @@
-.env
 genAI_venv
 .env
-requirements.txt
+PDF_QA_chatbot/faiss_index/index.faiss
+PDF_QA_chatbot/faiss_index/index.pkl
