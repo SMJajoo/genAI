@@ -6,3 +6,5 @@ PyPDF2
 chromadb
 faiss_cpu
 langchain_google_genai
+openpyxl
+fpdf
